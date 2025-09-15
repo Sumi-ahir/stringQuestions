@@ -1,4 +1,4 @@
-Function revStringWord(str){
+function revStringWord(str){
 
     let word=str.split(" ");
     let reversed=word.reverse();
@@ -6,6 +6,7 @@ Function revStringWord(str){
     
 }console.log(revStringWord("I Love Coding "));
 console.log(revStringWord("I am dreamer"));
+
 
 
 
